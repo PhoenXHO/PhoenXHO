@@ -46,7 +46,7 @@ If you want to write math like a wizard and still keep it readable—this is for
 </a>
 <!-- Kotlin -->
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50"/>
 </a>
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -108,10 +108,6 @@ If you want to write math like a wizard and still keep it readable—this is for
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="50"/>
 </a>
-<!-- LaTeX -->
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50"/>
-</a>
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="50"/>
@@ -123,6 +119,10 @@ If you want to write math like a wizard and still keep it readable—this is for
 <!-- Supabase -->
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="50"/>
+</a>
+<!-- LaTeX -->
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://mathonlinenotes.com/wp-content/uploads/2023/12/Screenshot-2023-12-06-at-8.50.08%E2%80%AFPM.png" alt="LaTeX" height="50"/>
 </a>
 
 ---
