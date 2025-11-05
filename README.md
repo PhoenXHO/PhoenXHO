@@ -110,7 +110,7 @@ If you want to write math like a wizard and still keep it readable—this is for
 </a>
 <!-- LaTeX -->
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
