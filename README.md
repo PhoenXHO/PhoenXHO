@@ -1,24 +1,19 @@
-<h2 align="center">👋 Hey there, I’m PhoenXHO</h2>
+<h2 align="center">👋 Hey, I’m Oussama (aka PhoenXHO)</h2>
 
-> *"My code works... eventually."* – Probably me at 3AM
-
-
-🧠 Curious polymath with a passion for blending creativity, logic, and technology.
-
-I love building unique systems; from custom programming languages to animation-driven stories and game prototypes. Most of my projects begin with a wild idea and end with something oddly functional—sometimes even beautiful.
+I'm a student who spends way too much time building things that probably don't need to exist. Programming languages, game prototypes, weird systems. If it's complicated and makes me think "wait, can I actually do this?", I'm in. Most of my projects start with "this would be cool" and end with "huh, it actually works" (or at least something close to that).
 
 ---
 
 ## 🔧 What I'm Building
 
 ### ⚙️ Mathium
-A handcrafted programming language designed with flexibility, clarity, and expressive syntax.  
-Think Python, but with more object-oriented magic and custom operator powers.  
-If you want to write math like a wizard and still keep it readable—this is for you.
+Building a programming language from scratch in C++. Currently has:
+- Lexer/Parser that actually works (most of the time)
+- Custom operator definitions (because why not?)
+- Everything-is-an-object design
+- A lot of compiler errors that I'm slowly fixing
 
-> ✨ Everything is an object.  
-> 🔁 You can redefine the rules.  
-> 🔬 I'm obsessed with clean design.
+*Status: It compiles... sometimes. The interpreter is getting there.*
 
 ---
 
@@ -125,6 +120,14 @@ If you want to write math like a wizard and still keep it readable—this is for
   <img src="https://mathonlinenotes.com/wp-content/uploads/2023/12/Screenshot-2023-12-06-at-8.50.08%E2%80%AFPM.png" alt="LaTeX" height="50"/>
 </a>
 
+*(I've probably forgotten something. There's always another tool to learn.)*
+
 ---
 
-If it’s creative, challenging, or slightly absurd—I’m probably into it.
+## 📈 Stats (because github has them)
+
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PhoenXHO)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+---
+
+If it’s creative, challenging, or pushes technical boundaries, I’m probably into it.
