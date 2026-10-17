@@ -5,7 +5,7 @@ The one thing I'd say all my projects have in common: I like building complex th
 ## Flagships
 
 - **Torn Sentinel** — a modular Discord bot SaaS, live in production: 8 pluggable modules on a single contract, a declarative permission-policy engine, and self-hosted prorated subscription billing over Torn's item economy. Currently closed source.
-- **fluxcord** — a session-oriented UI framework for Discord bots, extracted from Sentinel's UI. TSX in, Components V2 out, no diffing. Publishing soon.
+- **[fluxcord](https://www.npmjs.com/package/fluxcord)** — a session-oriented UI framework for Discord bots, extracted from Sentinel's UI. TSX in, Components V2 out, no diffing. Publishing soon.
 
 ## The exploration shelf
 
