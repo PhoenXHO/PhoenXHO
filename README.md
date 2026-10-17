@@ -10,7 +10,7 @@ The one thing I'd say all my projects have in common: I like building complex th
 ## The exploration shelf
 
 - **[Kugelblitz](https://phoenxho.github.io/kugelblitz/)** — a clicker game with hand-written GLSL shaders: real orbital mechanics under the money, zero dependencies. Playable in your browser.
-- **Mathium** — a math-flavored programming language: hand-written lexer, Pratt parser, and bytecode VM, with arbitrary-precision arithmetic.
+- **[Mathium](https://github.com/PhoenXHO/Mathium)** — a math-flavored programming language: hand-written lexer, Pratt parser, and bytecode VM, with arbitrary-precision arithmetic.
 
 ## Daily drivers
 
